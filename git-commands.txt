@@ -21,28 +21,15 @@ git restore testing.py
 git status
 git status
 git status
-rm .\git-commands.txt
 git status
-git restore git-commands.txt
+git restore git-co
 git status
 git status
-git help
-git remote add origin https://github.com/Ayush-141196/Git-hub.git
-git remote -v
-git remote -v
-git remote -v
-git remote -v
-git remote -v
-git remote set-url origin https://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@github.com/Ayush-141196/Git-hub.git
-git remote -v
-git push origin master
-git remote -v
-git remote -v
-git remote -v
-git push origin master
+ -v
+git push origin m
 git status
 git push origin
 git remote -v
 git status
-git push origin master
-git push origin master
+git push origin m
+git push origin 
